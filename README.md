@@ -32,6 +32,8 @@ The code will look like the following:
 
 **Following is what you need for this book:**
 This book is designed for data professionals—data analysts, data scientists, or data engineers— and business professionals, aiming to acquire the skills for extracting data from the Web3 ecosystem, as it demonstrates how to effectively leverage data tools for in-depth analysis of blockchain transactional data. If you seek hands-on experience, you'll find value in the shared repository, enabling you to experiment with the provided solutions. While not mandatory, a basic understanding of statistics, machine learning, and Python will enhance your learning experience.
+
+
 With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
 
 ### Software and Hardware List
