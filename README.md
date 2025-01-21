@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/image.jpeg)](https://www.packtpub.com/)</p></b>Get this book on sale at [Packt](https://www.packtpub.com/).
+
 # Data Science for Web3
 
 <a href="https://www.packtpub.com/product/data-science-for-web3/9781837637546"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81FLyVAX8eL._SL1500_.jpg" alt="Data Science for Web3" height="256px" align="right"></a>
