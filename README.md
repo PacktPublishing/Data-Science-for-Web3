@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
-
 # Data Science for Web3
 
 <a href="https://www.packtpub.com/product/data-science-for-web3/9781837637546"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81FLyVAX8eL._SL1500_.jpg" alt="Data Science for Web3" height="256px" align="right"></a>
